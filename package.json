@@ -1,0 +1,32 @@
+{
+  "name": "dustjs-helper-stringify",
+  "version": "0.0.1",
+  "author": {
+    "name": "Andi N. Dirgantara",
+    "url": "https://github.com/hellowin"
+  },
+  "homepage": "https://github.com/hellowin/dustjs-helper-stringify",
+  "description": "JSON Stringify helper for Dust.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "main": "./lib/index",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hellowin/dustjs-helper-stringify.git"
+  },
+  "keywords": [
+    "templates",
+    "views",
+    "helper",
+    "helpers",
+    "dust",
+    "dustjs",
+    "json",
+    "stringify",
+    "pretty",
+    "print",
+    "format"
+  ],
+  "license": "MIT"
+}
